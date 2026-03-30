@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm passioned and greedy to knowledge software developer. I like trying new things and constanly develop my skills.
-
-Currently I'm working on my own IT services and consultancy company named ifOperator: https://ifoperator.com/ (former Abstract-Factory).
+I'm passioned and greedy to knowledge software developer. Currently I'm working on my own IT services and consultancy company named [ifOperator](https://ifoperator.com/) (former Abstract-Factory).
 
 **We can help you [with]([https://abstract-factory.xyz/how-we-work/](https://ifoperator.com/delivery-model)):**
 
@@ -10,7 +8,7 @@ Currently I'm working on my own IT services and consultancy company named ifOper
 ✅ GenAI integration into your current systems.\
 ✅ GenAI-native web apps from scratch to automate your operations.\
 
-Need software development services? <sub>Better call Saul</sub> Better email me:
-vadym@abstract-factory.xyz
+Need software development services? Better email me:
+vadym@abstract-factory.xyz (this email is active).
 
-My main [account](https://github.com/vadym-scythia)
+My main [account](https://github.com/vadym-scythia).
